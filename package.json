@@ -1,0 +1,26 @@
+{
+  "name": "revolt-voice-assistant",
+  "version": "1.0.0",
+  "description": "A voice-enabled chatbot for Revolt Motors with support for multiple Indian languages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "chatbot",
+    "voice-assistant",
+    "revolt-motors",
+    "nodejs",
+    "express"
+  ],
+  "author": "Radhika Jangra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

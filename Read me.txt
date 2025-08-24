@@ -1,0 +1,26 @@
+# Revolt Motors Voice Assistant
+
+A voice-enabled chatbot built with Node.js and HTML that provides information about Revolt Motors electric bikes with support for 10 Indian languages.
+
+## Features
+
+- 🎤 Voice recognition and text-to-speech
+- 🌐 Support for 10 Indian languages
+- 💬 Real-time chat interface
+- ⚡ Fast and responsive design
+- 🔧 Built with Node.js and Express
+
+## Technologies Used
+
+- **Backend**: Node.js, Express.js
+- **Frontend**: HTML5, CSS3, JavaScript
+- **APIs**: Web Speech API
+- **Styling**: Custom CSS with modern design
+
+## Installation
+
+1. Install Node.js (v14 or higher)
+2. Clone this repository
+3. Install dependencies:
+   ```bash
+   npm install
