@@ -13,6 +13,9 @@ The Revolt Motors Voice Assistant is a web-based AI chatbot designed to provide 
    ```bash
    npm install
    npm start
+
+OR.......................SIMPLY RUN THE INDEX.HTML FILE AFTER DOWNLOADING THE COMPLETE FOLDER 
+
 API Endpoints
 GET / - Main application
 GET /api/info - Project information
